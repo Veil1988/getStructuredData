@@ -1,0 +1,2 @@
+# getStructuredData
+Created with CodeSandbox
